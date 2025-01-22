@@ -1,8 +1,8 @@
 // let huvisagch zaraldag neg turul
 // let eer zarlagdsan huvisagchiig ahij zarlah bolomjgui.
 
-let btnRef= document.querySelectorAll('.button-option')
-let popupRef= document.querySelector('.popup')
+let btnRef= document.querySelectorAll('.button-option');
+let popupRef= document.querySelector('.popup');
 let newGameRef= document.getElementById('new-game')
 let restartRef= document.getElementById('restart')
 let msgRef= document.getElementById('messege')
